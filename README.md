@@ -4,8 +4,6 @@ A full-stack blogging platform inspired by Medium, built with modern serverless 
 
 ## 🚀 Live Demo
 
-[Live Application](YOUR_DEPLOYMENT_URL)
-
 ## ✨ Features
 
 - User Authentication (JWT)
@@ -122,13 +120,6 @@ This project helped me gain hands-on experience with:
 - Full Stack Application Deployment
 - TypeScript Across the Entire Stack
 
-## 📸 Screenshots
-
-Add screenshots here to showcase:
-- Landing Page
-- Blog Feed
-- Editor Page
-- Authentication Screens
 
 ## 👨‍💻 Author
 
