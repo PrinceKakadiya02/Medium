@@ -2,8 +2,6 @@
 
 A full-stack blogging platform inspired by Medium, built with modern serverless technologies. Users can create accounts, publish articles, and manage their content through a responsive and scalable web application.
 
-## 🚀 Live Demo
-
 ## ✨ Features
 
 - User Authentication (JWT)
